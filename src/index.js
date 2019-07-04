@@ -16,6 +16,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
        
     })
+    
 
     function addToysCard(toy){
       let div1=document.getElementById("toy-collection")
@@ -112,6 +113,12 @@ document.addEventListener("DOMContentLoaded", function() {
 
      }
 })
+
+function x(){
+  console.log(hello)
+}
+
+
 
 
 
